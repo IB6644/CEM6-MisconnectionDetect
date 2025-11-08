@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cem6misconnectiondetect.app-mergeReleaseResources-20:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/ume/.gradle/caches/transforms-3/465a41d3b1f2dfdf86c1b548107fa6c9/transformed/appcompat-1.4.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

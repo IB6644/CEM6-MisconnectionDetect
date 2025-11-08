@@ -1,0 +1,4 @@
+#Sat Nov 08 21:45:44 JST 2025
+base.0=/Users/ume/Documents/gokessen/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

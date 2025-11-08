@@ -1,0 +1,6 @@
+{
+  "name": "CEM6MisconnectionDetect",
+  "displayName": "CEM6 誤結線検出",
+  "version": "1.0.0",
+  "description": "CEM6電力量計用誤結線検出モバイルアプリ"
+}
